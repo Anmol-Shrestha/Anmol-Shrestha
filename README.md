@@ -1,12 +1,13 @@
 # Hi, I'm Anmol
 
-I'm passionate about teaching humans and AI. I'm a new graduate of the AI program at Centennial College, and I have experience building fullstack applications, custom ML models, and shipping them to production.
+I'm passionate about teaching humans and AI. I'm a new graduate of the AI program at Centennial College, and I have experience designing & building fullstack applications, custom ML models, and shipping them to production.
 
-## Tech I use
+## TechStack
 
 - **Languages:** Python, SQL, NumPy, JavaScript
 - **Cloud:** AWS 
 - **Tools:** AI-assisted coding
+- **Frameworks/Libraries:** NextJS, PyTorch, HuggingFace, ScikitLearn
 
 ## Featured projects
 
