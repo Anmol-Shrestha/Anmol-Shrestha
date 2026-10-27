@@ -1,12 +1,12 @@
 # Hi, I'm Anmol
 
-I'm passionate about teaching humans and AI. I'm a new graduate of the AI program at Centennial College, and I build full-stack applications around AWS services.
+I'm passionate about teaching humans and AI. I'm a new graduate of the AI program at Centennial College, and I have experience building fullstack applications, custom ML models, and shipping them to production.
 
 ## Tech I use
 
-- **Languages:** Python, SQL, NumPy
-- **Cloud:** AWS (Lambda, API Gateway, S3, Rekognition, Translate, Polly)
-- **Other:** AI-assisted coding
+- **Languages:** Python, SQL, NumPy, JavaScript
+- **Cloud:** AWS 
+- **Tools:** AI-assisted coding
 
 ## Featured projects
 
