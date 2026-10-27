@@ -6,7 +6,7 @@ I'm passionate about teaching humans and AI. I'm a new graduate of the AI progra
 
 - **Languages:** Python, SQL, NumPy, JavaScript
 - **Cloud:** AWS 
-- **Tools:** AI-assisted coding
+- **Tools:** Claude Code, Gemini
 - **Frameworks/Libraries:** NextJS, PyTorch, HuggingFace, ScikitLearn
 
 ## Featured projects
